@@ -32,3 +32,6 @@ This project is a fun way to learn game development fundamentals such as renderi
 
 # Screenshot
 ![](screenshot.png)
+![Screenshot](Screenshot%20from%202025-12-12%2023-55-49.png)
+
+
